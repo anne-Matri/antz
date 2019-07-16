@@ -11,3 +11,6 @@ Command 'cheatsheet.txt' and LICENSE.txt are in the <a href="https://github.com/
 Sample datasets at http://openantz.com/links.html
 
 Developers should fork the master repo which contains all OS types.
+
+Wellbeing Script.ipynb takes auckland_local_boardx4.csv, assigns parameters to objects and exports node file.
+Script adapted from work by Jeff Sales.
